@@ -28,13 +28,13 @@ const ButtonAlertDemo = () => {
       <Button 
         color={'white'}
         title="Click me"
-        onPress={()=>alert('Hello, I am Chen Siyu')}  
+        onPress={()=>alert('Hello, I am Enternity-Yu')}  
       />
 
       <Button 
         color={'white'}
         title="Click me again"
-        onPress={()=>Alert.alert('Hello, I am Chen Siyu')}   // Alert.alert的弹框没有Alert字样的title
+        onPress={()=>Alert.alert('Hello, I am Enternity-Yu')}   // Alert.alert的弹框没有Alert字样的title
       />
 
       <Button 
